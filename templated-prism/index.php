@@ -17,7 +17,7 @@
 						<h2>Welcome to Flooring Supply Centre</h2>
 					</section>
 					<section>
-						<p>Here you will find out about all of the latest goings on @ FSCMerseyside </p>
+						<p>This is our news app! - If you are looking to shop with us you can find our extensive range on our full website</p>
 						<ul class="actions">
 							<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button special">Visit our Product Website</a></li>
 						</ul>
