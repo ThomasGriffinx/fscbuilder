@@ -109,7 +109,7 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="copyright">
-					&copy; Flooring Supply Centre. All rights reserved. Images: <a href="http://unsplash.com">Unsplash</a>. Full Site: <a href="http://flooringsupplycentre.co.uk/index.php?Page=1">www.flooringsupplycentre.co.uk</a>.
+					&copy; Flooring Supply Centre. All rights reserved. Full Site: <a href="http://flooringsupplycentre.co.uk/index.php?Page=1">www.flooringsupplycentre.co.uk</a>.
 				</div>
 			</footer>
 
