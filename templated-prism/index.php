@@ -82,7 +82,7 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 					</div>
 					<div class="spotlight">
 						<div class="image">
-							<img src="TLC.png" alt="" />
+							<img src="tlc-logo.jpg" alt="" />
 						</div>
 						<div class="content">
 							<h3>TLC Massimo @ FSCMerseyside</h3>
