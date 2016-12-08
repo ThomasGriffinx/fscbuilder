@@ -36,7 +36,7 @@
 
                         Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and Restaurants as well as the general public!</p>
 						<ul class="actions">
-							<li><a href="#" class="button alt">Visit full site</a></li>
+							<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button special" class="button alt">Visit full site</a></li>
 						</ul>
 					</section>
 					<section>
