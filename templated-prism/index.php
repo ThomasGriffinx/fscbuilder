@@ -1,12 +1,7 @@
 <!DOCTYPE HTML>
-<!--
-	Prism by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 	<head>
-		<title>Prism by TEMPLATED</title>
+		<title>Flooring Supply Centre News</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -19,12 +14,12 @@
 			<section id="banner">
 				<div class="inner split">
 					<section>
-						<h2>Welcome to Prism, a free responsive site template by <a href="http://templated.co">TEMPLATED</a></h2>
+						<h2>Welcome to Flooring Supply Centre, This is our news website!</h2>
 					</section>
 					<section>
-						<p>Lorem ipsum nisl sed cursus magna et amet veroeros. Phasellus aliquam et tempus lorem dolor feugiat adipiscing lorem.</p>
+						<p>Here you will find out about all the latest goings on at the North West's favourite flooring specialist </p>
 						<ul class="actions">
-							<li><a href="#" class="button special">Get started</a></li>
+							<li><a href="" class="button special">Visit our Product Website</a></li>
 						</ul>
 					</section>
 				</div>
@@ -34,19 +29,25 @@
 			<section id="one" class="wrapper">
 				<div class="inner split">
 					<section>
-						<h2>Magna feugiat adipiscing</h2>
-						<p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus aliquam et tempus lorem feugiat adipiscing lorem. Morbi pharetra vitae felis placerat pharetra. Nulla risus orci, dapibus id malesuada et nec, malesuada quis orci. Pellentesque eget consequat.</p>
+						<h2>Flooring Supply Centre - Trading since 1960!</h2>
+						<p>We are a family run business established in 1960 with a reputation second to none. We thrive on customer satisfaction employing more than twelve full time floor fitters and our store has a team of fully trained flooring technicians. Our team of experienced and knowledgeable flooring contractors have specialist expertise in industrial, commercial and domestic flooring.
+
+So whether you require Ceramic Wall or Floor tiles or even Luxury vinyl tiles such as Amtico, Karndean or Country Harlequin or The very best in Laminate flooring such as Quickstep or Finsa or even the soft touch of a new carpet, we have it all with FREE PARKING at an ideal location just past Switch Island off the M57 towards Bootle.
+
+ Our ethos is providing the very best in customer services, with a project management team ensuring we meet deadlines and our pricing structure is highly competitive.
+
+Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and Restaurants as well as the general public</p>
 						<ul class="actions">
-							<li><a href="#" class="button alt">Learn more</a></li>
+							<li><a href="#" class="button alt">Visit full site</a></li>
 						</ul>
 					</section>
 					<section>
 						<ul class="checklist">
-							<li>Ipsum nisl sed cursus magna</li>
-							<li>Amet veroeros sed aliquam consequat</li>
-							<li>Tempus lorem adipiscing et lorem</li>
-							<li>Morbi pharetra vitae felis placerat</li>
-							<li>Pharetra nulla risus orci dapibus</li>
+							<li>Amtico Showroom</li>
+							<li>Karndean Partners</li>
+							<li>Quick-Step experts</li>
+							<li>Carpet Experts</li>
+							<li>Over 15 fully trained and qualified flooring installation experts</li>
 						</ul>
 					</section>
 				</div>
@@ -60,10 +61,10 @@
 							<img src="images/pic01.jpg" alt="" />
 						</div>
 						<div class="content">
-							<h3>Ipsum pharetra tempus</h3>
-							<p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
+							<h3>Artificial Grass @ FSCMerseyside</h3>
+							<p>For the best advice when it comes to your garden revamp, Get in touch with our experts, Call us directly on 0151 521 5221 or view our products</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Details</a></li>
+								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=173" class="button alt">Shop Artifical Grass</a></li>
 							</ul>
 						</div>
 					</div>
@@ -72,10 +73,10 @@
 							<img src="images/pic02.jpg" alt="" />
 						</div>
 						<div class="content">
-							<h3>Magna consequat felis</h3>
-							<p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
+							<h3>Recently Installed</h3>
+							<p>Our installation professionals are out all over the UK everyday completing domestic and commercial jobs</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Details</a></li>
+								<li><a href="https://completefsc.herokuapp.com" class="button alt">View our completed installations</a></li>
 							</ul>
 						</div>
 					</div>
@@ -84,49 +85,22 @@
 							<img src="images/pic03.jpg" alt="" />
 						</div>
 						<div class="content">
-							<h3>Vitae placerat adipiscing</h3>
-							<p>Lorem ipsum nisl sed cursus magna et amet veroeros. Sed phasellus malesuada quis orci. Pellentesque eget consequat.</p>
+							<h3>Ted Todd @FSCMerseyside</h3>
+							<p>Our most recent edition to our showroom is a full Ted Todd display.  Check out our premium Ted Todd ranges!</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">Details</a></li>
+								<li><a href="#" class="button alt">View Products</a></li>
 							</ul>
 						</div>
 					</div>
-					<ul class="actions special">
-						<li><a href="#" class="button alt">Ipsum magna tempus</a></li>
-					</ul>
-				</div>
 			</section>
 
 		<!-- Contact -->
-			<section id="contact" class="wrapper">
-				<div class="inner split">
-					<section>
-						<h2>Orci malesuada</h2>
-						<p>Morbi pharetra vitae felis placerat pharetra. Nulla risus orci, dapibus id malesuada et nec, malesuada quis pellentesque eget.</p>
-						<form action="#" class="alt" method="POST">
-							<div class="row uniform">
-								<div class="6u 12u$(xsmall)">
-									<input name="name" placeholder="Name" type="text">
-								</div>
-								<div class="6u$ 12u$(xsmall)">
-									<input name="email" placeholder="Email" type="email">
-								</div>
-								<div class="12u$">
-									<textarea name="message" placeholder="Message" rows="4"></textarea>
- 								</div>
- 							</div>
- 							<ul class="actions">
- 								<li><input class="alt" value="Send message" type="submit"></li>
- 							</ul>
- 						</form>
-					</section>
 					<section>
 						<ul class="contact">
-							<li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-							<li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
-							<li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
-							<li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
-							<li class="fa-home">1234 Somewhere Road Suite 9823<br/>Nashville, TN 00000-0000</li>
+							<li class="fa-twitter"><a href="#">twitter.com/fscmerseyside</a></li>
+							<li class="fa-facebook"><a href="#">facebook.com/fscmerseyside</a></li>
+							<li class="fa-envelope"><a href="#">sales@flooringsupplycentre.co.uk</a></li>
+							<li class="fa-home">Dunnings Bridge Road<br/>Netherton, L30 6TA</li>
 						</ul>
 					</section>
 				</div>
@@ -135,7 +109,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="copyright">
-					&copy; Untitled. All rights reserved. Images: <a href="http://unsplash.com">Unsplash</a>. Design: <a href="http://templated.co">TEMPLATED</a>.
+					&copy; Flooring Supply Centre. All rights reserved. Images: <a href="http://unsplash.com">Unsplash</a>. Full Site: <a href="http://flooringsupplycentre.co.uk/index.php?Page=1">www.flooringsupplycentre.co.uk</a>.
 				</div>
 			</footer>
 
