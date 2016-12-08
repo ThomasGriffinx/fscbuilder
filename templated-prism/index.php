@@ -43,9 +43,9 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 					</section>
 					<section>
 						<ul class="checklist">
-							<li>Amtico Showroom</li>
+							<li>Amtico Showroom and Partners</li>
 							<li>Karndean Partners</li>
-							<li>Quick-Step experts</li>
+							<li>Quick-Step Partners</li>
 							<li>Carpet Experts</li>
 							<li>Over 15 fully trained and qualified flooring installation experts</li>
 						</ul>
