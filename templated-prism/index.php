@@ -66,7 +66,7 @@
 						</div>
 						<div class="content">
 							<h3>Artificial Grass @ FSCMerseyside</h3>
-							<p>For the best advice when it comes to your garden revamp, Get in touch with our experts! We have a premium range of artifical grass avialable both online and in our showroom.  Speak to one of our experts!
+							<p>For the best advice when it comes to your garden revamp, Get in touch with our experts! We have a premium range of artifical grass avialable both online and in our showroom.
 							<ul class="actions">
 								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=173" class="button alt">Shop Artifical Grass</a></li>
 							</ul>
@@ -92,7 +92,7 @@
 							<h3>TLC Massimo @ FSCMerseyside</h3>
 							<p>Our TLC Massimo range is the talk of the town!  We have the best supply and fit service available to you, Visit our full site or call us on 0151 521 5221 to find out more</p>
 							<ul class="actions">
-								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=157" class="button alt">View Products</a></li>
+								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=157" class="button alt">Shop TLC Massimo</a></li>
 							</ul>
 						</div>
 					</div>
