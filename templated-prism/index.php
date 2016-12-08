@@ -14,10 +14,10 @@
 			<section id="banner">
 				<div class="inner split">
 					<section>
-						<h2>Welcome to Flooring Supply Centre, This is our news website!</h2>
+						<h2>Welcome to Flooring Supply Centre</h2>
 					</section>
 					<section>
-						<p>Here you will find out about all the latest goings on at the North West's favourite flooring specialist </p>
+						<p>Here you will find out about all of the latest goings on @ FSCMerseyside </p>
 						<ul class="actions">
 							<li><a href="" class="button special">Visit our Product Website</a></li>
 						</ul>
@@ -58,11 +58,11 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 				<div class="inner">
 					<div class="spotlight">
 						<div class="image">
-							<img src="images/pic01.jpg" alt="" />
+							<img src="images/grass.png" alt="" />
 						</div>
 						<div class="content">
 							<h3>Artificial Grass @ FSCMerseyside</h3>
-							<p>For the best advice when it comes to your garden revamp, Get in touch with our experts, Call us directly on 0151 521 5221 or view our products</p>
+							<p>For the best advice when it comes to your garden revamp, Get in touch with our experts! We have a premium range of artifical grass avialable both online and in our showroom.  Speak to one of our experts!
 							<ul class="actions">
 								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=173" class="button alt">Shop Artifical Grass</a></li>
 							</ul>
@@ -70,7 +70,7 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 					</div>
 					<div class="spotlight">
 						<div class="image">
-							<img src="images/pic02.jpg" alt="" />
+							<img src="images/Amtico.JPG" alt="" />
 						</div>
 						<div class="content">
 							<h3>Recently Installed</h3>
@@ -82,13 +82,13 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 					</div>
 					<div class="spotlight">
 						<div class="image">
-							<img src="images/pic03.jpg" alt="" />
+							<img src="TLC.png" alt="" />
 						</div>
 						<div class="content">
-							<h3>Ted Todd @FSCMerseyside</h3>
-							<p>Our most recent edition to our showroom is a full Ted Todd display.  Check out our premium Ted Todd ranges!</p>
+							<h3>TLC Massimo @ FSCMerseyside</h3>
+							<p>Our TLC Massimo range is the talk of the town!  We have the best supply and fit service available to you, Visit our full site or call us on 0151 521 5221 to find out more</p>
 							<ul class="actions">
-								<li><a href="#" class="button alt">View Products</a></li>
+								<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=3&sel=brand&id=157" class="button alt">View Products</a></li>
 							</ul>
 						</div>
 					</div>
@@ -97,8 +97,8 @@ Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and R
 		<!-- Contact -->
 					<section>
 						<ul class="contact">
-							<li class="fa-twitter"><a href="#">twitter.com/fscmerseyside</a></li>
-							<li class="fa-facebook"><a href="#">facebook.com/fscmerseyside</a></li>
+							<li class="fa-twitter"><a href="https://twitter.com/fscmerseyside">twitter.com/fscmerseyside</a></li>
+							<li class="fa-facebook"><a href="https://facebook.com/fscmerseyside">facebook.com/fscmerseyside</a></li>
 							<li class="fa-envelope"><a href="#">sales@flooringsupplycentre.co.uk</a></li>
 							<li class="fa-home">Dunnings Bridge Road<br/>Netherton, L30 6TA</li>
 						</ul>
