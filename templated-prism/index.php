@@ -30,13 +30,11 @@
 				<div class="inner split">
 					<section>
 						<h2>Flooring Supply Centre - Trading since 1960!</h2>
-						<p>We are a family run business established in 1960 with a reputation second to none. We thrive on customer satisfaction employing more than twelve full time floor fitters and our store has a team of fully trained flooring technicians. Our team of experienced and knowledgeable flooring contractors have specialist expertise in industrial, commercial and domestic flooring.
+						<p>We are a family run business established in 1960 with a reputation second to none. We thrive on customer satisfaction employing more than fifteen full time floor fitters and our store has a team of fully trained flooring technicians that are on hand to help you make the right decision. Our team of experienced and knowledgeable flooring contractors have specialist expertise in industrial, commercial and domestic flooring,
 
-So whether you require Ceramic Wall or Floor tiles or even Luxury vinyl tiles such as Amtico, Karndean or Country Harlequin or The very best in Laminate flooring such as Quickstep or Finsa or even the soft touch of a new carpet, we have it all with FREE PARKING at an ideal location just past Switch Island off the M57 towards Bootle.
+So whether you require Ceramic Wall or Floor tiles or even Luxury vinyl tiles such as Amtico, Karndean, Country Harlequin or The very best in Laminate flooring such as Quickstep or Finsa or even the soft touch of a new carpet, we have it all with FREE PARKING at an ideal location just past Switch Island off the M57 towards Bootle.
 
- Our ethos is providing the very best in customer services, with a project management team ensuring we meet deadlines and our pricing structure is highly competitive.
-
-Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and Restaurants as well as the general public</p>
+Our Clients include Schools, Colleges, Universities, Banks and Clubs, Pubs and Restaurants as well as the general public!</p>
 						<ul class="actions">
 							<li><a href="#" class="button alt">Visit full site</a></li>
 						</ul>
