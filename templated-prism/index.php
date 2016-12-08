@@ -19,7 +19,7 @@
 					<section>
 						<p>Here you will find out about all of the latest goings on @ FSCMerseyside </p>
 						<ul class="actions">
-							<li><a href="" class="button special">Visit our Product Website</a></li>
+							<li><a href="hhttp://flooringsupplycentre.co.uk/index.php?Page=1" class="button special">Visit our Product Website</a></li>
 						</ul>
 					</section>
 				</div>
