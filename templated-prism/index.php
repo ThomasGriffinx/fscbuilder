@@ -10,21 +10,6 @@
 	</head>
 	<body>
 
-		<!-- Banner -->
-			<section id="banner">
-				<div class="inner split">
-					<section>
-						<h2>Welcome to Flooring Supply Centre</h2>
-					</section>
-					<section>
-						<p>This is our news app! - If you are looking to shop with us you can find our extensive range on our full website</p>
-						<ul class="actions">
-							<li><a href="http://flooringsupplycentre.co.uk/index.php?Page=1" class="button special">Visit our Product Website</a></li>
-						</ul>
-					</section>
-				</div>
-			</section>
-
 		<!-- One -->
 			<section id="one" class="wrapper">
 				<div class="inner split">
